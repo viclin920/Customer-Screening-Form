@@ -46,3 +46,8 @@ The build output will be generated in the `dist/` folder.
 ## Notes
 - This project is a static front-end app and works well on both Vercel and Cloudflare Pages.
 - To export PDF, open the page in a browser and click **Export to PDF / Print**.
+
+
+## Notes
+- This project uses Vite 6 for compatibility with Cloudflare Pages auto-detection.
+- Recommended Node.js version: 18+ (20 LTS preferred).
